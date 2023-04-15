@@ -41,10 +41,10 @@ Therefore, a policy to increase the normal retirement age based on shrinking Wor
 What would be needed are policies that promote, support, and enhance existing trends in living and working longer.
 
 ## References
-[Montcho, G., Carrière, Y., & Mérette, M. (2023). Population Aging and Work Life Duration in Canada. *Canadian Public Policy*, 49(S1), 32-47.](https://doi.org/10.3138/cpp.2022-048)
+Montcho, G., Carrière, Y., & Mérette, M. (2023). [Population Aging and Work Life Duration in Canada](https://doi.org/10.3138/cpp.2022-048). *Canadian Public Policy*, 49(S1), 32-47.
 
-[Sullivan DF. A single index of mortality and morbidity. HSMHA Health Rep. 1971 Apr;86(4):347-54. PMID: 5554262; PMCID: PMC1937122.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1937122/)
+Sullivan DF. (1971). [A single index of mortality and morbidity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1937122/). HSMHA Health Rep. 1971 Apr;86(4):347-54. PMID: 5554262; PMCID: PMC1937122.
 
-[Horiuchi, S., Wilmoth, J.R. & Pletcher, S.D. A decomposition method based on a model of continuous change. Demography 45, 785–801 (2008).]( https://doi.org/10.1353/dem.0.0033)
+Horiuchi, S., Wilmoth, J.R. & Pletcher, S.D. (2008). [A decomposition method based on a model of continuous change]( https://doi.org/10.1353/dem.0.0033). Demography 45, 785–801.
 
-[Statistics Canada, Demographic estimates by age and sex, provinces and territories](https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2020018-eng.htm)
+Statistics Canada [Demographic estimates by age and sex, provinces and territories](https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2020018-eng.htm)
